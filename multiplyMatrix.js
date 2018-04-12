@@ -1,3 +1,10 @@
+/**
+ * takes two matrices as input.
+ * returns the product of two matrices.
+ * @param m
+ * @param n
+ * @returns {*}
+ */
 function multiplyMatrix(m,n){
     var result = [];
 
